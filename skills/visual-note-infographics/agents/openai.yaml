@@ -1,0 +1,6 @@
+interface:
+  display_name: "视觉笔记信息图"
+  short_description: "批量生成中文竖版视觉笔记信息图和生图提示词"
+  default_prompt: "Use $visual-note-infographics to 把这些主题批量生成中文竖版视觉笔记信息图提示词，并使用默认 1242x1660 规格。"
+policy:
+  allow_implicit_invocation: true
